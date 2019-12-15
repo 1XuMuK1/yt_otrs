@@ -1,0 +1,14 @@
+
+db:
+    url: 'postgresql://user:pass@localhost/yt_otrs_1'
+
+otrs:
+    url: ''
+    username: ''
+    password: ''
+    verify_ssl: False
+
+youtrack:
+    url: ''
+    yt_token: ''
+    yt_project: ''
