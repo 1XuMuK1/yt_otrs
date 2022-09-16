@@ -5,7 +5,7 @@ Click==7.0
 colorama==0.4.1
 deprecation==2.0.7
 idna==2.8
-Mako==1.1.0
+Mako==1.2.2
 MarkupSafe==1.1.1
 packaging==19.2
 PyOTRS==0.4.1
